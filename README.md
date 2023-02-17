@@ -1,6 +1,6 @@
 # uitraining
 
-A new Flutter project.
+Simple UI training.
 
 ## Getting Started
 
